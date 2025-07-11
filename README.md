@@ -35,9 +35,8 @@ This site showcases who I am, the skills I’ve acquired, and the web developmen
 - Bootstrap  
 - Git & GitHub  
 - Node.js (basic knowledge)  
-- MongoDB (learning)  
 - VS Code  
-- Postman  
+
 
 ---
 
