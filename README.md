@@ -1,4 +1,4 @@
-# 🧑‍💼 Portfolio – Agash K 👨‍💻
+# 🧑‍💼 Portfolio – Ag么sh 👨‍💻
 
 Welcome to my personal portfolio website built using **React.js**!
 
